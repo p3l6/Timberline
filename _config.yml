@@ -1,0 +1,19 @@
+theme: jekyll-theme-leap-day
+
+title: Timberline Nursery
+email: someone@timberlinenursery.com
+description: Superior Plants! Superior Service!
+baseurl: ""
+url: "timberlinenursery.com"
+github_username: pwxn
+
+show_downloads: false
+# google_analytics: [Your Google Analytics tracking ID]
+
+markdown: kramdown
+
+repository: pwxn/Timberline
+
+timezone: America/New_York
+
+permalink: pretty
