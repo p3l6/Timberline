@@ -36,15 +36,19 @@ We hope the information and pictures on this web site give you a little more inf
 [click to view](plants)
 
 # Location
-2625 Hamp Rogers Road
-Post Office Box 248
-Pavo, Georgia 31778
-tel: (229) 226-8893
-fax: (229) 225-9727
+2625 Hamp Rogers Road  
+Post Office Box 248  
+Pavo, Georgia 31778  
+tel: (229) 226-8893  
+fax: (229) 225-9727  
 email: contact@timberlinenursery.com
 
-!! Embed map
-!! Facebook
+<iframe width="195" height="195" style="border-width:2px; border-style:solid; border-color:#115346;" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2625+Hamp+Rogers+Road,+Thomasville,+GA&amp;aq=0&amp;oq=2625+Hamp+Rogers+Road&amp;sll=30.959912,-83.737946&amp;sspn=0.022338,0.026393&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Hamp+Rogers+Rd,+Thomasville,+Georgia+31757&amp;ll=30.937569,-83.83564&amp;spn=0.026797,0.031071&amp;z=13&amp;iwloc=near&amp;output=embed"></iframe>
+<a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2625+Hamp+Rogers+Road,+Thomasville,+GA&amp;aq=0&amp;oq=2625+Hamp+Rogers+Road&amp;sll=30.959912,-83.737946&amp;sspn=0.022338,0.026393&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Hamp+Rogers+Rd,+Thomasville,+Georgia+31757&amp;ll=30.937569,-83.83564&amp;spn=0.026797,0.031071&amp;z=13&amp;iwloc=near" style="color:#115346;text-align:left">Click to enlarge</a>
+
+<a href="https://www.facebook.com/pages/Timberline-Nursery/221136011249495" target="_new">
+<img src="assets/images/button-sidebar-facebook.jpg" width="195" height="26" border="0">
+</a>
 
 [truck]: /assets/images/home-photo-1-truck.jpg "truck"
 [shed]: /assets/images/DSC_0056.jpg "shed"
