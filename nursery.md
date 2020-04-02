@@ -12,5 +12,11 @@ We ship on racks on our own trucks using curtain side trailers which gives the c
 
 We are expanding the varieties of plants we grow. We are open to suggestions both in size and variety to better meet your plant material needs. Our relationship with our customers is very important to us.
 
-!! embed images
+![][plants]
+![][curtainside]
+![][footer]
+
+[plants]: /assets/images/DSC_0042.jpg "plants"
+[curtainside]: /assets/images/DSC_0227.jpg "curtainside"
+[footer]: /assets/images/association-logos.jpg "associations"
 
