@@ -3,17 +3,43 @@ layout: default
 title: Home
 ---
 
-# First section
+# Timberline Nursery
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat.
+For over thirty years, Timberline Nursery has supplied plants to Nurseries, Rewholesalers, Landscapers and Garden Centers.
+With over 70 acres in production, we start plants from cuttings in our propagation area to providing extraordinary service with the delivery of the finished plants on our trucks.
 
-## Subsection 1
-Nunc aliquet bibendum enim facilisis gravida. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Amet luctus venenatis lectus magna fringilla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Egestas egestas fringilla phasellus faucibus scelerisque eleifend. Sagittis orci a scelerisque purus semper eget duis. Nulla pharetra diam sit amet nisl suscipit. Sed adipiscing diam donec adipiscing tristique risus nec feugiat in. Fusce ut placerat orci nulla. Pharetra vel turpis nunc eget lorem dolor. Tristique senectus et netus et malesuada.
+Timberline Nursery strives to be innovative by managing our resources wisely. You can trust the experience, integrity and core values that Paul and Becky Miller bring to providing Superior Plants & Superior Service to the wholesale nursery trade.
 
-## Subsection 2
+Call us today! Let us know how we can help you grow! Our relationship with our customers is very important to us.
 
-Etiam tempor orci eu lobortis elementum nibh tellus molestie. Neque egestas congue quisque egestas. Egestas integer eget aliquet nibh praesent tristique. Vulputate mi sit amet mauris. Sodales neque sodales ut etiam sit.
+If you'd like to receive our availability on a regular basis, please send us a note or call us at (229) 226-8893 - we'd be happy to fax or email you.
 
-### Minor section
+Our success is based on our hard work and our integrity and we offer our customers the highest levels of quality and service.
 
-Dignissim suspendisse in est ante in. Volutpat commodo sed egestas egestas. Felis donec et odio pellentesque diam. Pharetra vel turpis nunc eget lorem dolor sed viverra. Porta nibh venenatis cras sed felis eget. Aliquam ultrices sagittis orci a. Dignissim diam quis enim lobortis. Aliquet porttitor lacus luctus accumsan. Dignissim convallis aenean et tortor at risus viverra adipiscing at.
+If you are a current customer, we thank you for helping us grow and we look forward to serving you in the future.
+
+If you are not yet our customer, we would be pleased to demonstrate to you what quality service and quality plants really are.
+
+We hope the information and pictures on this web site give you a little more information about us.
+
+*Thank You,*  
+**Paul and Becky Miller**
+
+# Images
+
+!! embed images
+
+# Current Inventory
+!! inventory and location is on every page
+[click to view](plants)
+
+# Location
+2625 Hamp Rogers Road
+Post Office Box 248
+Pavo, Georgia 31778
+tel: (229) 226-8893
+fax: (229) 225-9727
+email: contact@timberlinenursery.com
+
+!! Embed map
+!! Facebook

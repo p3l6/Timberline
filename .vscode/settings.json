@@ -1,0 +1,4 @@
+{
+  // you can trigger a newline in markdown by ending the line with two spaces
+  "files.trimTrailingWhitespace": false
+}
