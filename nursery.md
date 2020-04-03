@@ -16,7 +16,7 @@ We are expanding the varieties of plants we grow. We are open to suggestions bot
 ![][curtainside]
 ![][footer]
 
-[plants]: /assets/images/DSC_0042.jpg "plants"
-[curtainside]: /assets/images/DSC_0227.jpg "curtainside"
-[footer]: /assets/images/association-logos.jpg "associations"
+[plants]: {{ site.baseurl}}/assets/images/DSC_0042.jpg "plants"
+[curtainside]: {{ site.baseurl}}/assets/images/DSC_0227.jpg "curtainside"
+[footer]: {{ site.baseurl}}/assets/images/association-logos.jpg "associations"
 

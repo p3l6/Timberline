@@ -32,7 +32,6 @@ We hope the information and pictures on this web site give you a little more inf
 ![][plant]
 
 # Current Inventory
-!! inventory and location is on every page
 [click to view](plants)
 
 # Location
@@ -50,6 +49,6 @@ email: contact@timberlinenursery.com
 <img src="assets/images/button-sidebar-facebook.jpg" width="195" height="26" border="0">
 </a>
 
-[truck]: /assets/images/home-photo-1-truck.jpg "truck"
-[shed]: /assets/images/DSC_0056.jpg "shed"
-[plant]: /assets/images/A51fw.jpg "plant"
+[truck]: {{ site.baseurl}}/assets/images/home-photo-1-truck.jpg "truck"
+[shed]: {{ site.baseurl}}/assets/images/DSC_0056.jpg "shed"
+[plant]: {{ site.baseurl}}/assets/images/A51fw.jpg "plant"

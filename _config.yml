@@ -3,8 +3,10 @@ theme: jekyll-theme-leap-day
 title: Timberline Nursery
 email: someone@timberlinenursery.com
 description: Superior Plants! Superior Service!
-baseurl: ""
-url: "timberlinenursery.com"
+# remove baseurl
+baseurl: "/Timberline"
+# timberlinenursery.com
+url: "pwxn.github.io"
 github_username: pwxn
 
 show_downloads: false
