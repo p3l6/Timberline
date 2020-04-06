@@ -6,40 +6,48 @@ by Matt Graham
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark";
+@import "variables.scss";
 
-$defaultText: #2b2b2b;
-$headingText: #333;
-$h2Text: #393939;
-$h3456Text: #666;
-$linkText: #4276b6;
-$smallLinkText: #666;
-$boldText: #333;
-$blockQuoteBorder: #ffcc00;
-$codeShadow: #000;
-$codeBackground: #333;
-$codeText: #efefef;
-$preBackground: #333;
-$preBorder: #c7c7c7;
-$tableHeader: #444;
-$tableBorderBottom: #e5e5e5;
-$tableCellHorizBorder: #ffcc00;
-$dtColor: #444;
-$headerBackground: #4276b6;
-$headerTitleColor: #f3f3f3;
-$headerTitleShadow: #235796;
-$headerText: #d8d8d8;
-$bannerBackground: #ffcc00;
-$bannerBorder: #f0b500;
-$bannerButtonBackground: #ffe788;
-$bannerButtonBackgroundHover: #ffeca0;
-$bannerButtonText: #333;
-$bannerBackgroundGradient: linear-gradient(#ffe788, #ffce38);
-$bannerBackgroundGradientHover: linear-gradient(#ffe788, #ffe788);
-$contentBackground: #fbfbfb;
-$contentBorder: #cbcbcb;
-$navItemText: #333;
-$navLinkText: #666;
-$navLinkTextHover: #999;
+$defaultText: $gray1;
+$headingText: $gray2;
+$h2Text: $gray2;
+$h3456Text: $gray3;
+$linkText: $linkBlue;
+$smallLinkText: $gray3;
+$boldText: $gray2;
+$blockQuoteBorder: $popColor;
+
+$codeShadow: $gray0;
+$codeBackground: $gray2;
+$codeText: $gray7;
+
+$preBackground: $gray2;
+$preBorder: $gray5;
+
+$tableHeaderText: $gray2;
+$tableBorderBottom: $gray6;
+$tableCellHorizBorder: $popColor;
+$dtColor: $gray2;
+
+$headerBackground: $pageHeader;
+$headerTitleColor: $gray7;
+$headerTitleShadow: $pageHeaderShadow;
+$headerText: $gray6;
+
+$bannerBackground: $popColor;
+$bannerBorder: $popBorder;
+$bannerButtonBackground: $popButton;
+$bannerButtonBackgroundHover: $popButtonHover;
+$bannerButtonText: $gray2;
+$bannerBackgroundGradient: linear-gradient($popButton, $popButtonGradient);
+$bannerBackgroundGradientHover: linear-gradient($popButton, $popButton);
+
+$contentBackground: $gray8;
+$contentBorder: $gray5;
+
+$navItemText: $gray2;
+$navLinkText: $gray3;
+$navLinkTextHover: $gray4;
 
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -154,7 +162,7 @@ th {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid $tableBorderBottom;
-  color: $tableBorderBottom;
+  color: $tableHeaderText;
 }
 
 td {
