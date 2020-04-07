@@ -12,8 +12,6 @@ $defaultText: $gray1;
 $headingText: $gray2;
 $h2Text: $gray2;
 $h3456Text: $gray3;
-$linkText: $linkBlue;
-$smallLinkText: $gray3;
 $boldText: $gray2;
 $blockQuoteBorder: $popColor;
 
@@ -29,9 +27,7 @@ $tableBorderBottom: $gray6;
 $tableCellHorizBorder: $popColor;
 $dtColor: $gray2;
 
-$headerBackground: $pageHeader;
 $headerTitleColor: $gray7;
-$headerTitleShadow: $pageHeaderShadow;
 $headerText: $gray6;
 
 $bannerBackground: $popColor;
@@ -90,14 +86,14 @@ h3 {
 }
 
 a {
-  color:$linkText;
+  color:$linkBlue;
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:$smallLinkText;
+  color:$gray3;
   margin-top:-0.6em;
   display:block;
 }
@@ -198,7 +194,9 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) $headerBackground;
+  // http://noisepng.com ;; 40 50 10 x
+  background-image: url(data:image/png;base64,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);
+  background-color: $pageHeaderBackgroundColor;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
@@ -207,7 +205,7 @@ header {
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: $headerTitleColor;
-    text-shadow: 0px 2px 0px $headerTitleShadow;
+    text-shadow: 0px 2px 0px $pageHeaderTitleShadow;
     margin: 0px;
     white-space: nowrap;
     overflow: hidden;

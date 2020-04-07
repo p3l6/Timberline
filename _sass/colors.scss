@@ -1,9 +1,12 @@
-$popColor: #ffcc00; // Should have S:100 L:50
+// Original #ffcc00 -3
+$popColor: #00ffcc; // Should have S:100 L:50
 $hueOffset: -3;
 
+// Original #4276b6 #235796
+$pageHeaderBackgroundColor: #ccff00;
+$pageHeaderTitleShadow: #f00;
+
 $linkBlue: #4276b6;
-$pageHeader: $linkBlue;
-$pageHeaderShadow: #235796;
 
 $gray0: #000;
 $gray1: #2b2b2b;
