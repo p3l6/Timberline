@@ -1,10 +1,9 @@
 // Original #ffcc00 -3
-$popColor: #42ff00; // Should have S:100 L:50
-$hueOffset: -3;
+$popColor: #005eff; // Should have S:100 L:50
+$hueOffset: 5;
 
 // Original #4276b6 #235796
-$pageHeaderBackgroundColor: #01943a;
-$pageHeaderTitleShadow: #085f29;
+$pageHeaderBackgroundColor: #009e64;
 
 $linkBlue: #4276b6;
 
@@ -22,3 +21,4 @@ $popBorder: adjust-color($popColor, $hue:$hueOffset, $lightness:-3%);
 $popButton: adjust-color($popColor,  $lightness:27%);
 $popButtonHover: adjust-color($popColor,  $lightness:31%);
 $popButtonGradient: adjust-color($popColor, $hue:$hueOffset, $lightness:11%);
+$pageHeaderTitleShadow: adjust-color($pageHeaderBackgroundColor,  $lightness:-8%);
