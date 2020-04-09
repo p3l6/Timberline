@@ -5,21 +5,12 @@
   
   .group_left {
     position:fixed;
-    left:50%;
+    left:51%;
     margin-left:-340px;
   }
 
   .group_right {
     float: right;
     margin-right:45px;
-  }
-
-  .group_right, .group_left {
-    span {
-      float:left;
-      line-height:52px;
-      font-size:90%;
-      text-transform:uppercase;
-    }
   }
 }
