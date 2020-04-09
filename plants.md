@@ -5,8 +5,6 @@ title: Our Plants
 
 # Our Plants
 
-!! link to pdf...maybe
-
 The heart of a Nursery is its plants, and at Timberline Nursery our plants are as superior as our service.
 
 Below is our general listing, updated as of August 2013. 
