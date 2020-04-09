@@ -1,4 +1,8 @@
 #banner {
+  .exp-icon {
+    display: none;
+  }
+  
   .group_left {
     position:fixed;
     left:50%;
@@ -15,23 +19,7 @@
       float:left;
       line-height:52px;
       font-size:90%;
-      color:#9d7f0d;
       text-transform:uppercase;
-      text-shadow:rgba(#fff, 0.2) 0 1px 0;
-    }
-
-    ul {
-      list-style:none;
-      height:40px;
-      padding:0;
-      float: left;
-      margin-left:10px;
-      li {
-        display:inline;
-        a.button {
-          background-color: #FFE788;
-        }
-      }
     }
   }
 }

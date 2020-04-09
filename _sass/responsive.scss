@@ -78,7 +78,7 @@
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 600px) {
   header{
     position: relative;
     padding: 5px 0px;
@@ -97,7 +97,40 @@
     margin-top: 5px;
   }
 
-  #banner { display: none;}
+  #banner { 
+    top: 5px;
+    background: none;
+    border: none;
+    box-shadow: none;
+    
+    .group_left, .group_right {
+      display:none;
+    }
+    
+    a.exp-icon {
+      position: relative;
+      float: left;
+      display: block;
+    }
+    
+    &.expanded  {
+      .group_left, .group_right {
+        position: relative;
+        left:0;
+        margin-left: 45px;
+        margin-right: 50px;
+        display: block; 
+        float: none;
+        text-align: left;
+        .button { 
+          display: block;
+          float: none;
+          text-align: left;
+        }
+      }
+    }
+  }
+  
   header ul {
     display:none;
   }

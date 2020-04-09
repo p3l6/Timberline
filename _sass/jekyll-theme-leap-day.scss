@@ -255,32 +255,6 @@ header {
       background-color: $bannerButtonBackgroundHover;
     }
   }
-
-  ul {
-    list-style:none;
-    height:40px;
-    padding:0;
-    float: left;
-    margin-left:10px;
-
-    li {
-      display:inline;
-
-      a.button {
-        background-color: $bannerButtonBackground;
-      }
-    }
-  }
-
-  #logo {
-    position:absolute;
-    height: 36px;
-    width: 36px;
-    right:7px;
-    top:7px;
-    display: block;
-    background: url(../images/octocat-logo.svg);
-  }
 }
 
 section {

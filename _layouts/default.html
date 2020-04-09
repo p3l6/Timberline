@@ -6,10 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/main.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="shortcut icon" type="image/png" href="{{ site.baseurl}}/favicon.ico">
   <script src="https://code.jquery.com/jquery-3.3.0.min.js"
     integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/responsive.js' | relative_url }}"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 </head>
 
@@ -20,20 +22,17 @@
   </header>
 
   <div id="banner">
+    <a href="javascript:void(0);" class="exp-icon button" onclick="expandFunction()"><i class="fa fa-bars"></i></a>
     <div class="group_left">
-      <ul>
-        <li><a href="{{ site.baseurl}}/" class="button">Home</a></li>
-        <li><a href="{{ site.baseurl}}/nursery" class="button">Our Nursery</a></li>
-        <li><a href="{{ site.baseurl}}/plants" class="button">Our Plants</a></li>
-        <li><a href="{{ site.baseurl}}/photos" class="button">Photos</a></li>
-      </ul>
+      <a href="{{ site.baseurl}}/" class="button">Home</a>
+      <a href="{{ site.baseurl}}/nursery" class="button">Our Nursery</a>
+      <a href="{{ site.baseurl}}/plants" class="button">Our Plants</a>
+      <a href="{{ site.baseurl}}/photos" class="button">Photos</a>
     </div>
     <div class="group_right">
-      <ul>
-        <li><a href="{{ site.baseurl}}/shipping" class="button">Shipping</a></li>
-        <li><a href="{{ site.baseurl}}/terms" class="button">Terms</a></li>
-        <li><a href="{{ site.baseurl}}/contact" class="button">Contact Us</a></li>
-      </ul>
+      <a href="{{ site.baseurl}}/shipping" class="button">Shipping</a>
+      <a href="{{ site.baseurl}}/terms" class="button">Terms</a>
+      <a href="{{ site.baseurl}}/contact" class="button">Contact Us</a>
     </div>
   </div>
 
