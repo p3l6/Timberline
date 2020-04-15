@@ -2,5 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
+@import "header.scss";
 @import "banner.scss";
 @import "responsive.scss";
