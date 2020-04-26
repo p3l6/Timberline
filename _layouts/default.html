@@ -45,6 +45,13 @@
       <img src="{{ '/assets/images/logo.svg' | relative_url }}" width="150">
       <ul></ul>
     </nav>
+    {% if page.images-on-right %} 
+      <div class="sideimages">
+        {% for image in page.images-on-right %}
+        <img src="{{ '/assets/images/' | append: image | relative_url }}">
+        {% endfor %}
+      </div>
+    {% endif %}
     <section>
       {{ content }}
     </section>

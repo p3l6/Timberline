@@ -5,7 +5,7 @@
     margin:0;
   }
 
-  nav{
+  nav, .sideimages {
     display: none;
   }
 
@@ -160,7 +160,7 @@
 }
 
 @media print, screen and (max-height: 480px) {
-  nav {
+  nav, .sideimages {
     display: none;
   }
 

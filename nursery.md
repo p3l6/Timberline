@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Our Nursery
+images-on-right: [DSC_0042.jpg, DSC_0227.jpg]
 ---
 
 # Timberline Nursery
@@ -12,11 +13,7 @@ We ship on racks on our own trucks using curtain side trailers which gives the c
 
 We are expanding the varieties of plants we grow. We are open to suggestions both in size and variety to better meet your plant material needs. Our relationship with our customers is very important to us.
 
-![][plants]
-![][curtainside]
 ![][footer]
 
-[plants]: {{ site.baseurl}}/assets/images/DSC_0042.jpg "plants"
-[curtainside]: {{ site.baseurl}}/assets/images/DSC_0227.jpg "curtainside"
 [footer]: {{ site.baseurl}}/assets/images/association-logos.jpg "associations"
 

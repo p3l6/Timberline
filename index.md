@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+images-on-right: [home-photo-1-truck.jpg, DSC_0056.jpg, A51fw.jpg]
 ---
 
 # Timberline Nursery
@@ -25,12 +26,6 @@ We hope the information and pictures on this web site give you a little more inf
 *Thank You,*  
 **Paul and Becky Miller**
 
-# Images
-
-![][truck]
-![][shed]
-![][plant]
-
 # Current Inventory
 [click to view](plants)
 
@@ -48,7 +43,3 @@ email: becky@timberlinenursery.com
 <a href="https://www.facebook.com/pages/Timberline-Nursery/221136011249495" target="_new">
 <img src="assets/images/button-sidebar-facebook.jpg" width="195" height="26" border="0">
 </a>
-
-[truck]: {{ site.baseurl}}/assets/images/home-photo-1-truck.jpg "truck"
-[shed]: {{ site.baseurl}}/assets/images/DSC_0056.jpg "shed"
-[plant]: {{ site.baseurl}}/assets/images/A51fw.jpg "plant"
