@@ -58,6 +58,9 @@
       text-overflow: ellipsis;
       -o-text-overflow: ellipsis;
       -ms-text-overflow: ellipsis;
+      .title-logo {
+        width: 50px;
+      }
     }
 
     p { display: none;}
