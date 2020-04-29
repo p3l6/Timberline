@@ -13,7 +13,7 @@ Timberline Nursery strives to be innovative by managing our resources wisely. Yo
 
 Call us today! Let us know how we can help you grow! Our relationship with our customers is very important to us.
 
-If you'd like to receive our availability on a regular basis, please send us a note or call us at (229) 226-8893 - we'd be happy to fax or email you.
+If you'd like to receive our availability on a regular basis, please send us a note or call us at (229) 226-8893 - we'd be happy to call or email you.
 
 Our success is based on our hard work and our integrity and we offer our customers the highest levels of quality and service.
 
